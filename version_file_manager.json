@@ -1,9 +1,14 @@
 {
-	"name": "AlchemyDoc",
-	"latest_version": "1.2",
-	"release_date": "15/11/2023",
-	"url_download": "https://github.com/proyectos-y-soluciones/actualizador_alchemy/raw/main/release/Alchemy.jar",
-	"old_version_list": [
-		
-	]
+    "latest_version": "1.3",
+    "name": "AlchemyDoc",
+    "release_date": "27/11/2023",
+    "url_download": "https://github.com/proyectos-y-soluciones/actualizador_alchemy/raw/main/release/Alchemy.jar",
+    "old_version_list": [
+        {
+            "1.2": {
+            	"release_date": "15/11/2023",
+            	"relevant_comments": "JDK 8 Migrate"    
+            }
+        }
+    ]
 }
