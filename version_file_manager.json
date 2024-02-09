@@ -1,8 +1,8 @@
 {
-    "latest_version": "1.3",
+    "latest_version": "1.4",
     "name": "AlchemyDoc",
-    "release_date": "27/11/2023",
-    "url_download": "https://github.com/proyectos-y-soluciones/actualizador_alchemy/raw/main/release/Alchemy.jar",
+    "release_date": "09/02/2024",
+    "url_download": "https://dev.azure.com/INFILEPMO/Public_Updaters/_apis/git/repositories/1082859a-6328-44e4-b7db-7dadfb1cac5c/items?path=release/Alchemy.jar",
     "old_version_list": [
         {
             "1.2": {
