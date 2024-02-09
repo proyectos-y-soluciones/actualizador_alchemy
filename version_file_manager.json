@@ -2,7 +2,7 @@
     "latest_version": "1.4",
     "name": "AlchemyDoc",
     "release_date": "09/02/2024",
-    "url_download": "https://dev.azure.com/INFILEPMO/Public_Updaters/_apis/git/repositories/1082859a-6328-44e4-b7db-7dadfb1cac5c/items?path=release/Alchemy.jar",
+    "url_download": "https://dev.azure.com/INFILEPMO/fbd3d0ea-1cf4-4846-97da-1d3606178732/_apis/git/repositories/1082859a-6328-44e4-b7db-7dadfb1cac5c/items?path=/release/Alchemy.jar&resolveLfs=true&%24format=octetStream&download=true",
     "old_version_list": [
         {
             "1.2": {
